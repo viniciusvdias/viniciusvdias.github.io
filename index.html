@@ -8,7 +8,7 @@
   <meta name="theme" content="hugo-academic">
   <meta name="generator" content="Hugo 0.17" />
   <meta name="author" content="Vinicius Dias">
-  <meta name="description" content="Master&#39;s Student">
+  
 
   <link rel="stylesheet" href="/css/highlight.min.css">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -69,6 +69,12 @@
         </li>
         
         <li class="nav-item">
+          <a href="/#talks" data-target="#talks">
+            Talks
+          </a>
+        </li>
+        
+        <li class="nav-item">
           <a href="/#contact" data-target="#contact">
             Contact
           </a>
@@ -106,8 +112,8 @@
 
       <div class="portrait-title">
         <h2 itemprop="name">Vinicius Dias</h2>
-        <h3 itemprop="jobTitle">Master&#39;s Student</h3>
-        <h3 itemprop="worksFor">Universidade Federal de Minas Gerais</h3>
+        <h3 itemprop="jobTitle"></h3>
+        <h3 itemprop="worksFor">Computer Science Department, UFMG, Brazil</h3>
       </div>
 
       <ul class="social-icon" aria-hidden="true">
@@ -133,19 +139,25 @@
           </a>
         </li>
         
+        
+        <li>
+          <a href="//facebook.com/vvsdias">
+            <i class="fa fa- big-icon"></i>
+          </a>
+        </li>
+        
       </ul>
 
     </div>
   </div>
-  <div class="col-xs-12 col-md-8" itemprop="description">
+  <div class="col-xs-12 col-md-8" style="text-align: justify;" itemprop="description">
 
-    
 
     <div class="row">
 
       
       <div class="col-sm-5">
-        <h3>Interests</h3>
+        <h3>Research Interests</h3>
         <ul class="ul-interests">
           
           <li>Distributed Systems</li>
@@ -167,7 +179,7 @@
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">MSc in Computer Science, 2016</p>
-              <p class="institution">Universidade Federal de Minas Gerais</p>
+              <p class="institution">Federal University of Minas Gerais, Brazil</p>
             </div>
           </li>
           
@@ -175,7 +187,7 @@
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
               <p class="course">BSc in Computer Science, 2013</p>
-              <p class="institution">Universidade Federal de Uberlândia</p>
+              <p class="institution">Federal University of Uberlândia, Brazil</p>
             </div>
           </li>
           
@@ -184,6 +196,63 @@
       
 
     </div>
+   
+
+<h3 id="about-me">About Me</h3>
+
+<p>I am a master&rsquo;s student in the Computer Science Department (DCC) at
+Federal University of Minas Gerais (UFMG), Brazil. Before that I received my B.Sc. in
+Computer Science from Federal University of Uberlândia (UFU), Brazil.</p>
+
+<p>Broadly, I am interested in research problems concerning systems&rsquo;
+performance, specially large-scale distributed systems. Recently, I have been
+working on performance diagnosis and reconfiguration of data parallel
+programming models (a.k.a. Big Data) and in particular, the following challenges
+have been catching my attention (and stealing some of my sleep :P):</p>
+
+<ul>
+<li><p><strong>Task Model in Data-Parallel Frameworks:</strong> Data-itensive frameworks
+(e.g., <a href="http://spark.apache.org/">Spark</a> and <a href="https://flink.apache.org/">Flink</a>)
+are based on specific task models
+that describe how resources (memory, CPU, disk, etc.) in parallel computations are consumed.</p>
+
+<ul>
+<li>Is there a more deterministic model that would make easy to identify which
+resources are more important throughout tasks&rsquo; execution?</li>
+<li>Would this model facilitate resource overlapping among concurrent tasks?</li>
+<li>Which would be the gains (if any) in doing that, considering modern operating
+systems?</li>
+</ul></li>
+
+<li><p><strong>Multi-Resource Characterization in Parallel Programs:</strong>
+Parallel processing frameworks perform computation by statically requesting
+multi-dimensional resource containers from cluster schedulers
+(e.g.,
+<a href="https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html">YARN</a> and
+<a href="http://mesos.apache.org/">Mesos</a>). Community experiences have shown that tuning these dimensions
+appropriately taking into account each application individually can have great
+impact in performance.</p>
+
+<ul>
+<li>What would be the right set of application profiles that captures most of
+behaviors regarding multi-resource tuning in parallel applications?</li>
+<li>How to use that knowledge to automate the process of resource requesting?
+Ideally I would not want these aspects to be transparent to the user.</li>
+</ul></li>
+
+<li><p><strong>Autonomic Computing:</strong> As computational demands can greatly vary in a
+parallel execution due to faults, (over,under)subscription of resources,
+heterogeneous environments, and so on, modern distributed systems would
+leverage <a href="https://en.wikipedia.org/wiki/Autonomic_computing">autonomic computing characteristics and principles</a>.</p>
+
+<ul>
+<li>How far are we from actually being capable of incorporating such concepts in
+large-scale distributed systems?</li>
+<li>How feasible is to design and implement systems with autonomic computation
+as a requirement, rather than a feature?</li>
+</ul></li>
+</ul>
+
   </div>
 </div>
 
@@ -201,41 +270,55 @@
 
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h3>Publications</h3>
+    <h2>Publications</h2>
     
     
   </div>
   <div class="col-xs-12 col-md-8">
-    <h4>Selected Publications</h4>
+   <h4>Selected Publications</h4>
 
     
     <ul class="fa-ul">
       
       <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Diagnosing Performance Bottlenecks in Massive Data Parallel Programs</span>
+   <div class="pub">
+      <div class="pub-title" itemprop="title">Diagnosing Performance Bottlenecks in Massive Data Parallel Programs</div>
+      <div class="pub-authors" itemprop="author">
+         
+         Vinicius Dias, Rubens Moreira, Wagner Meira Jr., Dorgival Guedes
+         
+      </div> 
+      <div class="pub-publication" itemprop="publication">
+         CCGrid 2016
+      </div>
+   </div>
   <p>
 
 
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io/doc/ccgrid2016.pdf">
-  PDF
+  pdf
 </a>
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io">
-  Slides
+  slides
 </a>
 
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io">
-  Code
+  code
 </a>
 
 
 
+
+<a class="btn btn-primary btn-outline" href="http://dx.doi.org/10.1109/CCGrid.2016.81">
+  doi
+</a>
 
 </p>
 </li>
@@ -243,29 +326,43 @@
       
       <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Dynamic Reconfiguration of Data Parallel Programs</span>
+   <div class="pub">
+      <div class="pub-title" itemprop="title">Dynamic Reconfiguration of Data Parallel Programs</div>
+      <div class="pub-authors" itemprop="author">
+         
+         Vinicius Dias, Wagner Meira Jr., Dorgival Guedes
+         
+      </div> 
+      <div class="pub-publication" itemprop="publication">
+         SBAC-PAD 2016
+      </div>
+   </div>
   <p>
 
 
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io/doc/sbacpad2016.pdf">
-  PDF
+  pdf
 </a>
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io">
-  Slides
+  slides
 </a>
 
 
 
 <a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io">
-  Code
+  code
 </a>
 
 
 
+
+<a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io">
+  doi
+</a>
 
 </p>
 </li>
@@ -276,12 +373,78 @@
     
     <p><h4 id="more">More</h4>
 
-<ul>
-<li><p><a href="doc/viniciusvdias_cv.pdf" target="_blank">My CV</a></p></li>
+<p><a class="btn btn-primary btn-outline btn-xs" href="doc/viniciusvdias_cv.pdf" target="_blank">My CV</a>
+<a class="btn btn-primary btn-outline btn-xs" href="http://lattes.cnpq.br/2203331147452803" target="_blank">My CV on <i>Lattes Platform</i></a></p>
+  </div>
+</div>
 
-<li><p><a href="http://lattes.cnpq.br/2203331147452803" target="_blank">My CV on <i>Lattes Platform</i></a></p></li>
-</ul>
+    </div>
+  </section>
+
+  
+  
+  <section id="talks" class="home-section">
+    <div class="container">
+      
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h2>Talks</h2>
+    
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+    
+    <ul class="fa-ul">
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+   <div class="pub">
+      <div class="pub-title" itemprop="title">(in portuguese) Processamento de Dados Massivos (Big-Data) com Spark</div>
+      <div class="pub-authors" itemprop="author">
+         
+         Vinicius Dias, Dorgival Guedes
+         
+      </div> 
+      <div class="pub-publication" itemprop="publication">
+         EVCOMP-2016 Escola de Verão em Computação do PPGCC/DCC
+      </div>
+   </div>
+  <p>
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://viniciusvdias.github.io/doc/evcomp2016.pdf">
+  slides
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="https://youtube.com/watch?v=0Xp0UZ9Rfzw">
+  video
+</a>
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="http://www.evcomp.dcc.ufmg.br/previous/2015/">
+  event
+</a>
+
 </p>
+</li>
+
+      
+    </ul>
+    
+    
+    
   </div>
 </div>
 
@@ -299,7 +462,7 @@
 
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
-    <h3>Contact</h3>
+    <h2>Contact Me</h2>
     
   </div>
   <div class="col-xs-12 col-md-8">

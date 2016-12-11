@@ -34,7 +34,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.6rem;
   line-height: inherit;
   color: inherit;
   margin-top: 71px; /* Offset body content by navbar height. */
@@ -461,6 +461,12 @@ article {
 .pub .pub-authors {
   font-style: italic;
   line-height: 30px; /* Match share bar line height. */
+  font-size: 0.8rem;
+}
+
+.pub .pub-publication {
+  font-size: 0.8rem;
+  font-weight: bold;
 }
 
 .pub .pub-row-heading {
