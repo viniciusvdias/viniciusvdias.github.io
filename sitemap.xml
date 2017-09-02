@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/talk/evcomp-dcc-big-data/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/performance-diagnosis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dynamic-reconfiguration/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://viniciusvdias.github.io/home/publications/</loc>
@@ -36,6 +15,55 @@
   <url>
     <loc>https://viniciusvdias.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/talk/evcomp-dcc-big-data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/performance-diagnosis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/dynamic-reconfiguration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/talk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
