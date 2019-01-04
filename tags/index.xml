@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Vinicius Dias</copyright>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://viniciusvdias.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
