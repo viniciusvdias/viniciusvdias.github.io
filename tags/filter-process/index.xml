@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>filter-process | Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/tags/filter-process/</link>
+      <atom:link href="https://viniciusvdias.github.io/tags/filter-process/index.xml" rel="self" type="application/rss+xml" />
+    <description>filter-process</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>filter-process</title>
+      <link>https://viniciusvdias.github.io/tags/filter-process/</link>
+    </image>
+    
+    <item>
+      <title>Graph Data Mining with Arabesque</title>
+      <link>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

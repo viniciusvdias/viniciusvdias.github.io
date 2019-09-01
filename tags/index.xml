@@ -1,15 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vinicius Dias</title>
+    <title>Tags | Vinicius Dias</title>
     <link>https://viniciusvdias.github.io/tags/</link>
-    <description>Recent content in Tags on Vinicius Dias</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Vinicius Dias</copyright>
+      <atom:link href="https://viniciusvdias.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://viniciusvdias.github.io/tags/</link>
+    </image>
     
-	<atom:link href="https://viniciusvdias.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>distributed systems</title>
+      <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>graph pattern mining</title>
+      <link>https://viniciusvdias.github.io/tags/graph-pattern-mining/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/graph-pattern-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filter-process</title>
+      <link>https://viniciusvdias.github.io/tags/filter-process/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/filter-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph exploration</title>
+      <link>https://viniciusvdias.github.io/tags/graph-exploration/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/graph-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>think like an embedding</title>
+      <link>https://viniciusvdias.github.io/tags/think-like-an-embedding/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/think-like-an-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance bottleneck diagnosis;spark;performance</title>
+      <link>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spark;big data;security;phishing</title>
+      <link>https://viniciusvdias.github.io/tags/sparkbig-datasecurityphishing/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/sparkbig-datasecurityphishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL extension</title>
+      <link>https://viniciusvdias.github.io/tags/sql-extension/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/sql-extension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://viniciusvdias.github.io/tags/big-data/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frameworks</title>
+      <link>https://viniciusvdias.github.io/tags/frameworks/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preferences</title>
+      <link>https://viniciusvdias.github.io/tags/preferences/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>query language</title>
+      <link>https://viniciusvdias.github.io/tags/query-language/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/query-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relational algebra</title>
+      <link>https://viniciusvdias.github.io/tags/relational-algebra/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/relational-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>watershed</title>
+      <link>https://viniciusvdias.github.io/tags/watershed/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/watershed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hadoop;hadoop extension;spam;mail;performance</title>
+      <link>https://viniciusvdias.github.io/tags/hadoophadoop-extensionspammailperformance/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/hadoophadoop-extensionspammailperformance/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

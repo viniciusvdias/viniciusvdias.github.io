@@ -1,39 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vinicius Dias on Vinicius Dias</title>
+    <title>Vinicius Dias</title>
     <link>https://viniciusvdias.github.io/</link>
-    <description>Recent content in Vinicius Dias on Vinicius Dias</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Vinicius Dias</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://viniciusvdias.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vinicius Dias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>Vinicius Dias</title>
+      <link>https://viniciusvdias.github.io/</link>
+    </image>
     
     <item>
-      <title>(in portuguese) Processamento de Dados Massivos (Big-Data) com Spark</title>
-      <link>https://viniciusvdias.github.io/talk/evcomp-dcc-big-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://viniciusvdias.github.io/talk/evcomp-dcc-big-data/</guid>
+      <title>Fractal: A General-Purpose Graph Pattern Mining System</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2019-fractal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2019-fractal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Diagnosing Performance Bottlenecks in Massive Data Parallel Programs</title>
-      <link>https://viniciusvdias.github.io/publication/performance-diagnosis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://viniciusvdias.github.io/publication/performance-diagnosis/</guid>
+      <title>Janus: Diagnostics and reconfiguration of data parallel programs</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2018-janus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2018-janus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Data Mining with Arabesque</title>
+      <link>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Reconfiguration of Data Parallel Programs</title>
-      <link>https://viniciusvdias.github.io/publication/dynamic-reconfiguration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://viniciusvdias.github.io/publication/dynamic-reconfiguration/</guid>
+      <link>https://viniciusvdias.github.io/publication/dias-2016-dynamicreconfiguration/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2016-dynamicreconfiguration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Performance Bottlenecks in Massive Data Parallel Programs</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Big Data Architecture for Security Data and Its Application to Phishing Characterization</title>
+      <link>https://viniciusvdias.github.io/publication/lascasas-2016-bigdataarch/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/lascasas-2016-bigdataarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Algorithms for Processing Preference Queries</title>
+      <link>https://viniciusvdias.github.io/publication/ribeiro-2016-preferencequeries/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/ribeiro-2016-preferencequeries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watershed-ng: an extensible distributed stream processing framework</title>
+      <link>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hadoop Extension to Process Mail Folders and its Application to a Spam Dataset</title>
+      <link>https://viniciusvdias.github.io/publication/lascasas-2014-hadoopextension/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/lascasas-2014-hadoopextension/</guid>
       <description></description>
     </item>
     

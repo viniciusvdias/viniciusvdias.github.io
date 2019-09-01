@@ -3,26 +3,164 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://viniciusvdias.github.io/home/about/</loc>
+    <loc>https://viniciusvdias.github.io/publication/dias-2019-fractal/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://viniciusvdias.github.io/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/home/talks/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://viniciusvdias.github.io/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://viniciusvdias.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/talk/evcomp-dcc-big-data/</loc>
+    <loc>https://viniciusvdias.github.io/tags/distributed-systems/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/graph-pattern-mining/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/dias-2018-janus/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/filter-process/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/graph-exploration/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/think-like-an-embedding/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/dias-2016-dynamicreconfiguration/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/lascasas-2016-bigdataarch/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/sparkbig-datasecurityphishing/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/ribeiro-2016-preferencequeries/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/sql-extension/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/big-data/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/frameworks/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/preferences/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/query-language/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/relational-algebra/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/watershed/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/lascasas-2014-hadoopextension/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/hadoophadoop-extensionspammailperformance/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/authors/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,38 +169,11 @@
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/publication/performance-diagnosis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dynamic-reconfiguration/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/home/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://viniciusvdias.github.io/post/</loc>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/talk/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

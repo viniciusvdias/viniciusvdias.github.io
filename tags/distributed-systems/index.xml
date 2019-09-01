@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributed systems | Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
+      <atom:link href="https://viniciusvdias.github.io/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>distributed systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>distributed systems</title>
+      <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
+    </image>
+    
+    <item>
+      <title>Fractal: A General-Purpose Graph Pattern Mining System</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2019-fractal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2019-fractal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watershed-ng: an extensible distributed stream processing framework</title>
+      <link>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

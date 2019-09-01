@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>performance bottleneck diagnosis;spark;performance | Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</link>
+      <atom:link href="https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/index.xml" rel="self" type="application/rss+xml" />
+    <description>performance bottleneck diagnosis;spark;performance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>performance bottleneck diagnosis;spark;performance</title>
+      <link>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</link>
+    </image>
+    
+    <item>
+      <title>Diagnosing Performance Bottlenecks in Massive Data Parallel Programs</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
