@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/teaching/</link>
+      <atom:link href="https://viniciusvdias.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>Teaching</title>
+      <link>https://viniciusvdias.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/teaching/csi030/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/csi030/</guid>
+      <description>&lt;h2 id=&#34;csi030---programao-de-computadores-i&#34;&gt;CSI030 - Programação de Computadores I&lt;/h2&gt;
+&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
+&lt;p&gt;Desenvolver noções de organização e funcionamento de computadores e habilidades básicas de programação e algoritmos.&lt;/p&gt;
+&lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Arquitetura e funcionamento básico de um computador. Conceito de Algoritmo.
+Estratégias básicas de solução de problemas por meio de algoritmos. Conceito de
+programa. Conceitos básicos de linguagens de programação de alto nível: tipos
+primitivos, variáveis, atribuição, operadores, expressões. Sequenciamento de
+instruções. Controle de fluxo de execução: estruturas de seleção e repetição. Vetores.
+Ponteiros. Procedimentos e funções. Alocação de memória. Tipos estruturados de
+dados. Entrada e saída de dados. Implementação de programas de pequeno porte.&lt;/p&gt;
+&lt;h3 id=&#34;contedo-programtico&#34;&gt;Conteúdo programático&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Arquitetura e funcionamento básico de um computador.&lt;/li&gt;
+&lt;li&gt;Conceito de algoritmo.&lt;/li&gt;
+&lt;li&gt;Conceito de programa.&lt;/li&gt;
+&lt;li&gt;Tipos de dados primitivos, conceitos de variáveis e constantes, inicialização de variáveis, operadores e expressões, coerção de tipos.&lt;/li&gt;
+&lt;li&gt;Entrada e saída de dados.&lt;/li&gt;
+&lt;li&gt;Controle do fluxo de execução.&lt;/li&gt;
+&lt;li&gt;Funções.&lt;/li&gt;
+&lt;li&gt;Vetores&lt;/li&gt;
+&lt;li&gt;Alocação dinâmica de memória:&lt;/li&gt;
+&lt;li&gt;Algoritmos de busca e ordenação de dados em vetores: bubleSort, busca sequencial, busca binária.&lt;/li&gt;
+&lt;li&gt;Tipos de dados definidos pelo usuário.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;SCHILDT, H., C, completo e total, 3a edição, Makron Books, 1997&lt;/li&gt;
+&lt;li&gt;DEITEL P. J., DEITEL H. M., C++: como programar, 5a edição, São Paulo: Prentice Hall, 2006.&lt;/li&gt;
+&lt;li&gt;MIZRAHI V.V. Treinamento em Linguagem C, 2a edição, Prentice-Hall, 2008.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/0BwtLoEkbvvAseGY3SWxIZHFkeUVUaFZudFUtUTM5TU80TC00/view?usp=sharing&#34;&gt;Apostila de Programação / DECSI&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

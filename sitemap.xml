@@ -1,9 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://viniciusvdias.github.io/teaching/csi030/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/teaching/csi030/ple-2020-1/</loc>
+    <lastmod>2020-01-15T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/</loc>
+    <lastmod>2020-01-15T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/distributed-systems/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://viniciusvdias.github.io/publication/dias-2019-fractal/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/graph-pattern-mining/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -15,25 +40,6 @@
   <url>
     <loc>https://viniciusvdias.github.io/tags/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/distributed-systems/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/graph-pattern-mining/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -42,26 +48,23 @@
   </url>
   
   <url>
+    <loc>https://viniciusvdias.github.io/tags/filter-process/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/tags/filter-process/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://viniciusvdias.github.io/tags/graph-exploration/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/tags/think-like-an-embedding/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -77,7 +80,6 @@
   <url>
     <loc>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -88,7 +90,11 @@
   <url>
     <loc>https://viniciusvdias.github.io/tags/sparkbig-datasecurityphishing/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/big-data/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -97,50 +103,38 @@
   </url>
   
   <url>
-    <loc>https://viniciusvdias.github.io/tags/sql-extension/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/big-data/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://viniciusvdias.github.io/tags/frameworks/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/tags/preferences/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/tags/query-language/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/tags/relational-algebra/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/tags/sql-extension/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/tags/watershed/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -151,7 +145,6 @@
   <url>
     <loc>https://viniciusvdias.github.io/tags/hadoophadoop-extensionspammailperformance/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -160,12 +153,10 @@
   
   <url>
     <loc>https://viniciusvdias.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://viniciusvdias.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,6 +165,10 @@
   
   <url>
     <loc>https://viniciusvdias.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://viniciusvdias.github.io/teaching/</loc>
   </url>
   
 </urlset>
