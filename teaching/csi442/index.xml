@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/teaching/csi442/</link>
+      <atom:link href="https://viniciusvdias.github.io/teaching/csi442/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vinicius Dias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>Vinicius Dias</title>
+      <link>https://viniciusvdias.github.io/teaching/csi442/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/teaching/csi442/2020-1/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/csi442/2020-1/</guid>
+      <description>&lt;h3 id=&#34;informações-gerais&#34;&gt;Informações gerais&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Período da disciplina: &lt;strong&gt;02/03/2020 a 08/07/2020&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Horários das aulas: &lt;strong&gt;segunda-feira (18:50 às 20:30) a quarta-feira (20:45 às 22:25)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1TF3pm4cnTAhuAaV4DLazs75JBH4EyPqLF6HPUeJt-F8/edit?usp=sharing&#34;&gt;Cronograma da disciplina&lt;/a&gt; (Sujeito a alterações durante o período letivo)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1oJRkLCG7StPcxneHLotzqia7Zh_TFgbb6D-pRB_x1EE/edit?usp=sharing&#34;&gt;Plano de ensino&lt;/a&gt; (Sujeito a alterações durante o período letivo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;atividades-avaliativas&#34;&gt;Atividades avaliativas&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Atividade&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Entrega&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;% Avaliação&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;Lista 1&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;08/04&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prova 1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;13/04&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;Lista 2&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;15/06&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prova 2&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;17/06&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;Trabalho prático&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;22/06&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;&#34;&gt;Seminários&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;a definir&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

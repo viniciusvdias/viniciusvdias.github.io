@@ -52,5 +52,110 @@ dados. Entrada e saída de dados. Implementação de programas de pequeno porte.
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/teaching/csi442/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/csi442/</guid>
+      <description>&lt;h2 id=&#34;csi442---banco-de-dados-ii&#34;&gt;CSI442 - Banco de Dados II&lt;/h2&gt;
+&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
+&lt;p&gt;Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
+técnicas, recursos e soluções avançadas para uma manipulação eficiente de
+sistemas de banco de dados.&lt;/p&gt;
+&lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Aspectos operacionais em sistemas de bancos de dados relacionais: índices,
+processamento de consultas, gerenciamento de transações, controle de concorrência,
+recuperação de falhas e segurança. Modelos de dados não relacionais e novos
+modelos de dados. Big Data.&lt;/p&gt;
+&lt;h3 id=&#34;conteúdo-programático&#34;&gt;Conteúdo programático&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução aos sistemas gerenciadores de banco de dados relacionais: Armazenamento secundário. Índices e árvores de indexação.&lt;/li&gt;
+&lt;li&gt;Processamento e Otimização de Consultas: Conceitos. Otimização Heurística. Otimização com base em custos.&lt;/li&gt;
+&lt;li&gt;Gerenciamento de Transações: Propriedades ACID. Classificação de schedules de transações. Controle de concorrência de transações. Recuperação de falhas.&lt;/li&gt;
+&lt;li&gt;Segurança em banco de dados: Conceitos. Modelos de segurança. Autorização e privilégios em banco de dados.&lt;/li&gt;
+&lt;li&gt;Modelos de dados não relacionais: Modelos No-SQL: Orientado à documentos, chave/valor, colunas e grafos.&lt;/li&gt;
+&lt;li&gt;Novos modelos de dados: Modelos semiestruturados: XML e JSON. Modelo orientados à objetos e objeto-relacional.&lt;/li&gt;
+&lt;li&gt;Big Data: Conceitos. Infraestrutura. Interfaces. Gerenciamento de Big Data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;KUROSE, J. F.; ROSS, K. W., Redes de Computadores e a Internet, 5a edição, Pearson, 2010;&lt;/li&gt;
+&lt;li&gt;TANENBAUM, A., Redes de Computadores, Tradução da 4a edição, Ed. Prentice-Hall, 2003;&lt;/li&gt;
+&lt;li&gt;PETERSON,L.L. e DAVIE, B.S. A., Redes de Computadores – Uma abordagem de Sistemas, Tradução da 3a ed., Elsevier/Editora Campus, 2004.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/teaching/csi546/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/csi546/</guid>
+      <description>&lt;h2 id=&#34;csi546---projeto-e-análise-de-algoritmos&#34;&gt;CSI546 - Projeto e Análise de Algoritmos&lt;/h2&gt;
+&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
+&lt;p&gt;Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
+conceitos e técnicas de análise e projeto de algoritmos. Apresentar e consolidar
+noções de limitações das classes de algoritmos, em termos de complexidade e
+poder de solução de problemas.&lt;/p&gt;
+&lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Crescimento assintótico de funções e notação assintótica. Técnicas de análise de
+complexidade de algoritmos. Técnicas de projeto de algoritmos: força bruta,
+incremental e divisão e conquista. Algoritmos gulosos. Programação dinâmica.
+Algoritmos aproximados. Provas de limite inferior. Problemas intratáveis.&lt;/p&gt;
+&lt;h3 id=&#34;conteúdo-programático&#34;&gt;Conteúdo programático&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Crescimento assintótico: definições, notação assintótica e propriedades.&lt;/li&gt;
+&lt;li&gt;Análise de complexidade de algoritmos&lt;/li&gt;
+&lt;li&gt;Técnicas de projetos de algoritmos&lt;/li&gt;
+&lt;li&gt;Algoritmos guloso: exemplos e prova de corretude.&lt;/li&gt;
+&lt;li&gt;Programação dinâmica.&lt;/li&gt;
+&lt;li&gt;Algoritmos aproximados.&lt;/li&gt;
+&lt;li&gt;Limite inferior de problemas: árvore de decisão, oráculo e estratégia do adversário e redução.&lt;/li&gt;
+&lt;li&gt;Intratabilidade&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;LEVITIN, Anany. Introduction to the Design and Analysis of Algorithms. 3a edition. Editora Addison Wesley;&lt;/li&gt;
+&lt;li&gt;CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford. Introduction to Algorithms. 3a edition. Editora The MIT Press;&lt;/li&gt;
+&lt;li&gt;KLEINBERG, Jon; TARDOS, Éva. Algorithm Design. Editora Addison Wesley.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/teaching/csi548/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/csi548/</guid>
+      <description>&lt;h2 id=&#34;csi548---redes-de-computadores-i&#34;&gt;CSI548 - Redes de Computadores I&lt;/h2&gt;
+&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
+&lt;p&gt;Desenvolver o conteúdo programático proposto, possibilitando a
+compreensão do funcionamento e organização de redes de computadores locais e a
+Internet. Desenvolver noções básicas de programação em redes e funcionamento de
+protocolos.&lt;/p&gt;
+&lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
+&lt;p&gt;Introdução a Redes de Computadores e Internet. Terminologia, aplicações e
+topologias Modelos de arquitetura (OSI/ISO e TCP/IP) e protocolos. Camada Física.
+Cabeamento metálico e óptico. Camada de enlace de dados. A subcamada de controle
+de acesso ao meio. Equipamentos de Interconexão de redes. Redes Locais sem Fio.
+Camada de Rede, Transporte e Aplicação.&lt;/p&gt;
+&lt;h3 id=&#34;conteúdo-programático&#34;&gt;Conteúdo programático&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Introdução a redes de computadores (histórico e arquitetura em camadas)&lt;/li&gt;
+&lt;li&gt;Camada Física (protocolos, meios físicos, topologia)&lt;/li&gt;
+&lt;li&gt;Camada de Enlace (funções, protocolos)&lt;/li&gt;
+&lt;li&gt;Camada de Rede (IP, roteamento)&lt;/li&gt;
+&lt;li&gt;Camada de transporte (UDP, TCP)&lt;/li&gt;
+&lt;li&gt;Camada de aplicação (DNS, correio eletrônico, www e multimídia)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;KUROSE, J. F.; ROSS, K. W., Redes de Computadores e a Internet, 5a edição, Pearson, 2010;&lt;/li&gt;
+&lt;li&gt;TANENBAUM, A., Redes de Computadores, Tradução da 4a edição, Ed. Prentice-Hall, 2003;&lt;/li&gt;
+&lt;li&gt;PETERSON,L.L. e DAVIE, B.S. A., Redes de Computadores – Uma abordagem de Sistemas, Tradução da 3a ed., Elsevier/Editora Campus, 2004.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
