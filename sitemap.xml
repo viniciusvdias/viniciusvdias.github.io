@@ -43,8 +43,13 @@
   </url>
   
   <url>
+    <loc>https://viniciusvdias.github.io/teaching/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://viniciusvdias.github.io/</loc>
-    <lastmod>2020-01-15T00:00:00+01:00</lastmod>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -195,10 +200,6 @@
   
   <url>
     <loc>https://viniciusvdias.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/</loc>
   </url>
   
 </urlset>

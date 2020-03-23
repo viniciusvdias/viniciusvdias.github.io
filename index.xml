@@ -5,12 +5,20 @@
     <link>https://viniciusvdias.github.io/</link>
       <atom:link href="https://viniciusvdias.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Vinicius Dias</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://viniciusvdias.github.io/img/icon-192.png</url>
       <title>Vinicius Dias</title>
       <link>https://viniciusvdias.github.io/</link>
     </image>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://viniciusvdias.github.io/teaching/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -41,14 +49,6 @@
       <link>https://viniciusvdias.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://viniciusvdias.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://viniciusvdias.github.io/teaching/</guid>
       <description></description>
     </item>
     
