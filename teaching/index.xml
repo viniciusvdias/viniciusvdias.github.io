@@ -14,12 +14,22 @@
     
     <item>
       <title></title>
+      <link>https://viniciusvdias.github.io/teaching/gcc253/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/teaching/gcc253/</guid>
+      <description>&lt;h2 id=&#34;gcc253---complexidade-e-projeto-de-algoritmos&#34;&gt;GCC253 - Complexidade e Projeto de Algoritmos&lt;/h2&gt;
+&lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
+&lt;h3 id=&#34;conteúdo-programático&#34;&gt;Conteúdo programático&lt;/h3&gt;
+&lt;h3 id=&#34;bibliografia&#34;&gt;Bibliografia&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://viniciusvdias.github.io/teaching/csi030/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/teaching/csi030/</guid>
       <description>&lt;h2 id=&#34;csi030---programação-de-computadores-i&#34;&gt;CSI030 - Programação de Computadores I&lt;/h2&gt;
-&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
-&lt;p&gt;Desenvolver noções de organização e funcionamento de computadores e habilidades básicas de programação e algoritmos.&lt;/p&gt;
 &lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
 &lt;p&gt;Arquitetura e funcionamento básico de um computador. Conceito de Algoritmo.
 Estratégias básicas de solução de problemas por meio de algoritmos. Conceito de
@@ -58,10 +68,6 @@ dados. Entrada e saída de dados. Implementação de programas de pequeno porte.
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/teaching/csi442/</guid>
       <description>&lt;h2 id=&#34;csi442---banco-de-dados-ii&#34;&gt;CSI442 - Banco de Dados II&lt;/h2&gt;
-&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
-&lt;p&gt;Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
-técnicas, recursos e soluções avançadas para uma manipulação eficiente de
-sistemas de banco de dados.&lt;/p&gt;
 &lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
 &lt;p&gt;Aspectos operacionais em sistemas de bancos de dados relacionais: índices,
 processamento de consultas, gerenciamento de transações, controle de concorrência,
@@ -92,11 +98,6 @@ modelos de dados. Big Data.&lt;/p&gt;
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/teaching/csi546/</guid>
       <description>&lt;h2 id=&#34;csi546---projeto-e-análise-de-algoritmos&#34;&gt;CSI546 - Projeto e Análise de Algoritmos&lt;/h2&gt;
-&lt;h3 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h3&gt;
-&lt;p&gt;Desenvolver o conteúdo programático proposto, possibilitando a compreensão de
-conceitos e técnicas de análise e projeto de algoritmos. Apresentar e consolidar
-noções de limitações das classes de algoritmos, em termos de complexidade e
-poder de solução de problemas.&lt;/p&gt;
 &lt;h3 id=&#34;ementa&#34;&gt;Ementa&lt;/h3&gt;
 &lt;p&gt;Crescimento assintótico de funções e notação assintótica. Técnicas de análise de
 complexidade de algoritmos. Técnicas de projeto de algoritmos: força bruta,
