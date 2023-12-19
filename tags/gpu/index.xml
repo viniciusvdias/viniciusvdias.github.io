@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU | Vinicius Dias</title>
+    <link>https://viniciusvdias.github.io/tags/gpu/</link>
+      <atom:link href="https://viniciusvdias.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://viniciusvdias.github.io/img/icon-192.png</url>
+      <title>GPU</title>
+      <link>https://viniciusvdias.github.io/tags/gpu/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Strategies for Graph Pattern Mining Algorithms on GPUs</title>
+      <link>https://viniciusvdias.github.io/publication/ferraz-2022-dumato/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/ferraz-2022-dumato/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

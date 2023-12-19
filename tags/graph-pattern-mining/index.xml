@@ -5,12 +5,20 @@
     <link>https://viniciusvdias.github.io/tags/graph-pattern-mining/</link>
       <atom:link href="https://viniciusvdias.github.io/tags/graph-pattern-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>graph pattern mining</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://viniciusvdias.github.io/img/icon-192.png</url>
       <title>graph pattern mining</title>
       <link>https://viniciusvdias.github.io/tags/graph-pattern-mining/</link>
     </image>
+    
+    <item>
+      <title>Efficient Strategies for Graph Pattern Mining Algorithms on GPUs</title>
+      <link>https://viniciusvdias.github.io/publication/ferraz-2022-dumato/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/ferraz-2022-dumato/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fractal: A General-Purpose Graph Pattern Mining System</title>
