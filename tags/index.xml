@@ -5,7 +5,7 @@
     <link>https://viniciusvdias.github.io/tags/</link>
       <atom:link href="https://viniciusvdias.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://viniciusvdias.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,15 +15,23 @@
     <item>
       <title>distributed systems</title>
       <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experimental evaluation</title>
+      <link>https://viniciusvdias.github.io/tags/experimental-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/tags/experimental-evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph pattern mining</title>
       <link>https://viniciusvdias.github.io/tags/graph-pattern-mining/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/tags/graph-pattern-mining/</guid>
       <description></description>
     </item>
