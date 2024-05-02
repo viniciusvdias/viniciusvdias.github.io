@@ -5,12 +5,20 @@
     <link>https://viniciusvdias.github.io/publication/</link>
       <atom:link href="https://viniciusvdias.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://viniciusvdias.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://viniciusvdias.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>DuMato: An eﬃcient warp-centric subgraph enumeration system for GPU</title>
+      <link>https://viniciusvdias.github.io/publication/ferraz-2024-dumato/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/ferraz-2024-dumato/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph Pattern Mining Paradigms: Consolidation and Renewed Bearing</title>
