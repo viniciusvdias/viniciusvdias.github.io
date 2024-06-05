@@ -5,12 +5,20 @@
     <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
       <atom:link href="https://viniciusvdias.github.io/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>distributed systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://viniciusvdias.github.io/img/icon-192.png</url>
       <title>distributed systems</title>
       <link>https://viniciusvdias.github.io/tags/distributed-systems/</link>
     </image>
+    
+    <item>
+      <title>Graph Pattern Mining Paradigms: Consolidation and Renewed Bearing</title>
+      <link>https://viniciusvdias.github.io/publication/dias-2023-gpmconsolidation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publication/dias-2023-gpmconsolidation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fractal: A General-Purpose Graph Pattern Mining System</title>
