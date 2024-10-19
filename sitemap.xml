@@ -1,220 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://viniciusvdias.github.io/teaching/apostilaalgoritmos/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/gcc253/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/csi030/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/csi442/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/csi546/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/csi548/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/ferraz-2024-dumato/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/gpu/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/graph-pattern-mining/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://viniciusvdias.github.io/publications/ferraz2024dumato/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/tags/database/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://viniciusvdias.github.io/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/distributed-systems/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/tags/java/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/dias2023gpmconsolidation/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/experimental-evaluation/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dias-2023-gpmconsolidation/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/ferraz-2022-dumato/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/ferraz2022dumato/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/teaching/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dias-2019-fractal/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/dias2019fractal/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dias-2018-janus/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/dias2018janus/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/filter-process/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/eslam2017arabesquedemo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/hussein-2017-arabesquedemo/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/graph-exploration/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/think-like-an-embedding/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dias-2016-dynamicreconfiguration/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/dias-2016-diagnosingbottlenecks/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/performance-bottleneck-diagnosissparkperformance/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/lascasas-2016-bigdataarch/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/sparkbig-datasecurityphishing/</loc>
-    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/big-data/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/dias2016diagnosingperformance/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/ribeiro-2016-preferencequeries/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/dias2016dynamicreconf/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/frameworks/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/lascasas2016bigdatasecurity/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/preferences/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/ribeiro2016preferencequeries/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/query-language/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/rocha2016watershedng/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/publications/lascasas2014hadoopmail/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/g-xxxxxxxxx/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/links/</loc>
+  </url><url>
+    <loc>https://viniciusvdias.github.io/teaching/</loc>
   </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/relational-algebra/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/sql-extension/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/watershed/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/rocha-2016-watershedng/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/publication/lascasas-2014-hadoopextension/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/tags/hadoophadoop-extensionspammailperformance/</loc>
-    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://viniciusvdias.github.io/talk/</loc>
-  </url>
-  
 </urlset>

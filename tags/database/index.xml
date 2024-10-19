@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Vinícius Dias</title>
-    <link>https://viniciusvdias.github.io/</link>
-    <description>Recent content in Home on Vinícius Dias</description>
+    <title>Database on Vinícius Dias</title>
+    <link>https://viniciusvdias.github.io/tags/database/</link>
+    <description>Recent content in Database on Vinícius Dias</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://viniciusvdias.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://viniciusvdias.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://viniciusvdias.github.io/publications/ferraz2024dumato/</link>
@@ -91,20 +91,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/publications/lascasas2014hadoopmail/</guid>
       <description>Pedro H. B. Las-Casas, Vinicius Dias, Renato Ferreira, Wagner Meira Jr., Dorgival Guedes (2014). A Hadoop Extension to Process Mail Folders and its Application to a Spam Dataset. 2014 International Symposium on Computer Architecture and High Performance Computing Workshop. &lt;a href=&#34;https://viniciusvdias.github.io/publications/lascasas2014hadoopmail.pdf&#34;&gt;&lt;code&gt;PDF&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.1109/SBAC-PADW.2014.25&#34;&gt;&lt;code&gt;DOI&lt;/code&gt;&lt;/a&gt;</description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>https://viniciusvdias.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://viniciusvdias.github.io/links/</guid>
-      <description>&lt;h3 id=&#34;computation&#34;&gt;Computation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[pt-br] &lt;a href=&#34;http://www.youtube.com/watch?v=fYJl-7jRzuw&#34;&gt;Por onde vem a internet?&lt;/a&gt;. Vídeo introdutório muito interessante mostrando, em alto nível, como a internet funciona.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;learning-and-education&#34;&gt;Learning and education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[pt-br] &lt;a href=&#34;https://www.b9.com.br/shows/naruhodo/naruhodo-205-powerpoint-e-util-para-a-aprendizagem/&#34;&gt;Podcast Naruhodo! #205&lt;/a&gt;. Diferença entre “entender” e “aprender”. Discute e critica métodos de aprendizagem com base em estudos científicos: muito interessante, muito prático.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;music&#34;&gt;Music&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[en] &lt;a href=&#34;https://sundaybaroque.org/listen/&#34;&gt;Sunday Baroque&lt;/a&gt;. Classical Baroque Music for fun and profit.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://viniciusvdias.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://viniciusvdias.github.io/teaching/</guid>
-      <description>&lt;h3 id=&#34;courses-material&#34;&gt;Courses material&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://viniciusvdias.github.io/publications/algoritmos-vdias.pdf&#34;&gt;Algoritmos: Notas e Compilações (PDF)&lt;/a&gt;. Em construção, utilizada em disciplinas de projeto e análise de algoritmos [pt-br]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DCC/UFLA - GCC253 - Complexidade e Projeto de Algoritmos [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DCC/UFLA - GCC218 - Algoritmos em grafos [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DECSI/UFOP - CSI030 - Programação de Computadores I [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DECSI/UFOP - CSI442 - Banco de Dados II [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DECSI/UFOP - CSI546 - Projeto e Análise de Algoritmos [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DECSI/UFOP - CSI106 - Fundamentos Teóricos da Computação [pt-br]&lt;/li&gt;&#xA;&lt;li&gt;DECSI/UFOP - CSI548 - Redes de Computadores I [pt-br]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
