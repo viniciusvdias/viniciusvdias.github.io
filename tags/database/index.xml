@@ -6,8 +6,15 @@
     <description>Recent content in Database on Vinícius Dias</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://viniciusvdias.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://viniciusvdias.github.io/publications/carvalho2025vnscsop/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://viniciusvdias.github.io/publications/carvalho2025vnscsop/</guid>
+      <description>Diogo Carvalho, Mayron Moreira, Vinícius Dias. &lt;em&gt;An Experimental Study of Variable Neighborhood Search for General-Purpose Subgraph Optimization in Parallel Systems&lt;/em&gt;. XXVI Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD&#39;25). &lt;a href=&#34;https://viniciusvdias.github.io/publications/carvalho2025vnscsop.pdf&#34;&gt;&lt;code&gt;PDF&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.5753/sscad.2025.15847&#34;&gt;&lt;code&gt;DOI&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/dcc-ufla-graph-mining/fractal/tree/sscad2025&#34;&gt;&lt;code&gt;code&lt;/code&gt;&lt;/a&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://viniciusvdias.github.io/publications/ferraz2024dumato/</link>
@@ -20,7 +27,7 @@
       <link>https://viniciusvdias.github.io/publications/volpini2024energiabigdata/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://viniciusvdias.github.io/publications/volpini2024energiabigdata/</guid>
-      <description>Nestor D. O. Volpini, Vinicius Dias, Dorgival Guedes. &lt;em&gt;Uma Análise Multicamadas do Consumo de Energia em Cargas Big Data&lt;/em&gt;. XXV Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD&#39;24). &lt;a href=&#34;#&#34;&gt;&lt;code&gt;PDF&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;#&#34;&gt;&lt;code&gt;DOI&lt;/code&gt;&lt;/a&gt;</description>
+      <description>Nestor D. O. Volpini, Vinicius Dias, Dorgival Guedes. &lt;em&gt;Uma Análise Multicamadas do Consumo de Energia em Cargas Big Data&lt;/em&gt;. XXV Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD&#39;24). &lt;a href=&#34;https://viniciusvdias.github.io/publications/volpini2024energiabigdata.pdf&#34;&gt;&lt;code&gt;PDF&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.5753/sscad.2024.244769&#34;&gt;&lt;code&gt;DOI&lt;/code&gt;&lt;/a&gt;</description>
     </item>
     <item>
       <title></title>
